@@ -14,7 +14,7 @@ from sklearn import datasets
 import pickle#exporta modelo ml
 import pandas as pd
 
-base=pd.read_csv('C:/Users/Sander/Documents/exe_IA1/IA1_Semana9_exe/atv_7_alternativa2/modelo/credit_risk_dataset.csv')
+base=pd.read_csv('C:/Users/Sander/Documents/exe_IA1/IA1_Semana9_exe/atv_7_final/modeloAtividade7/credit_risk_dataset.csv')
 base.keys()
 
 base.describe()
